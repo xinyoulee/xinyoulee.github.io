@@ -81,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "XinYu Lee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "NTHU EE master student"
+  location         : "Taiwan"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xinyoulee"
   google_plus      :
   keybase          :
   instagram        :

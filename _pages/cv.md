@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Electrical Engineering, National Tsing Hua University, 2019
+* B.S. in Electrical Engineering, National Taiwan University of Science and Technology, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017: Hardware Engineer
+  * WASAI Technology, Taipei, Taiwan
+  * Duties included: Design and develop RTL for data compression in Big Data project. Tests and debugs the emulation/FPGA model and collaterals.
+  * Supervisor: CEO Peter																	 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Intern
+  * Industrial Automation Group, Advantech Co., Ltd, Taiwan
+  * Duties included: Data Analysis and Statistic: Generated the best production plan with power saving by using Java to query, calculate and analyze manufacturing data from database in real-time.
+  * Supervisor: iAutomation Systems and Solutions - Open HMI and Control Solutions Team.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Digital IC design
+* Channel Coding
+  * Polar codes
 
 Publications
 ======
@@ -56,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Participates in MOST 5G research project.
